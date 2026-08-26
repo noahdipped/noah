@@ -1,4 +1,1 @@
-# noah
-handles
-
-[dc]: kyybi [rblx]: syxtherfr
+[dc]: kyybi and [rblx]: syxtherfr
