@@ -20,7 +20,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Stay%20Awesome-🌟-7C4DFF?style=for-the-badge&logo=appveyor" />
-  <img alt="Stay Awesome" src="https://img.shields.io/badge/Stay%20Awesome-🌟-00C9A7?style=for-the-badge&logo=appveyor" />
+  <img alt="idk" src="https://img.shields.io/badge/Stay%20Awesome-🌟-00C9A7?style=for-the-badge&logo=appveyor" />
 </picture>
 
 <sub>Last updated: 2026</sub>
