@@ -1,4 +1,7 @@
-# 👋 Noah
+<div style="display:flex; align-items:center; justify-content:center; gap:12px;">
+  <img src="https://github.com/noahdipped.png" alt="Noah's profile picture" width="96" style="border-radius:50%;"/>
+  <h1 style="margin:0; font-size:40px;">👋 Noah</h1>
+</div>
 
 <div align="center">
 
@@ -6,7 +9,6 @@
 
 
 ## handles
-
 
 
 
