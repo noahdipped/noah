@@ -1,16 +1,20 @@
-#  Noah
+# 👋 Noah
 
 <div align="center">
 
-### handles
+## Connect with Me
 
-<table>
-<tr>
-<td align="center"><b>Discord</b><br><code>kyybi</code></td>
-<td align="center"><b>Roblox</b><br><code>syxtherfr</code></td>
-</tr>
-</table>
+I'm active across multiple platforms. Feel free to reach out!
 
-*Last updated: 2026*
+---
+
+| Platform | Handle |
+|----------|--------|
+| 🎮 **Discord** | `kyybi` |
+| 🕹️ **Roblox** | `syxtherfr` |
+
+---
+
+<sub>Last updated: 2026</sub>
 
 </div>
