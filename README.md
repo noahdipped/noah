@@ -1,6 +1,6 @@
-<div style="display:flex; align-items:center; justify-content:center; gap:12px;">
-  <img src="https://github.com/noahdipped.png" alt="Noah's profile picture" width="96" style="border-radius:50%;"/>
+<div style="display:flex; align-items:center; justify-content:space-between; gap:12px;">
   <h1 style="margin:0; font-size:40px;">👋 Noah</h1>
+  <img src="https://github.com/noahdipped.png" alt="Noah's profile picture" width="48" style="border-radius:50%;"/>
 </div>
 
 <div align="center">
