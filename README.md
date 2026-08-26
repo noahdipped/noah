@@ -13,8 +13,8 @@ I'm active across multiple platforms. Feel free to reach out!
 
 | Platform | Handle |
 |----------|--------|
-| 🎮 **Discord** | ![discord](https://img.shields.io/badge/kyybi-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
-| 🕹️ **Roblox** | ![roblox](https://img.shields.io/badge/syxtherfr-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) |
+| 🎮 **Discord** | ![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
+| 🕹️ **Roblox** | ![roblox](https://img.shields.io/badge/syxtherfr%20-!roblox-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) |
 
 ---
 
