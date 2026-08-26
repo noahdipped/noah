@@ -5,16 +5,14 @@
 <img src="https://img.shields.io/badge/Welcome-–-to%20Noah-ff7eb6?style=for-the-badge&logo=github&logoColor=white" alt="welcome" />
 
 
-## Connect with Me
+## handles
 
-I'm active across multiple platforms. Feel free to reach out!
 
 ---
 
-| Platform | Handle |
 |----------|--------|
-| 🎮 **Discord** | ![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
-| 🕹️ **Roblox** | ![roblox](https://img.shields.io/badge/syxtherfr%20-!roblox-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) |
+| | ![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
+| | ![roblox](https://img.shields.io/badge/syxtherfr%20-!roblox-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) |
 
 ---
 
