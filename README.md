@@ -1,6 +1,8 @@
 <div style="display:flex; align-items:center; justify-content:space-between; gap:12px;">
-  <h1 style="margin:0; font-size:40px;"> Noah</h1>
-  <img src="https://github.com/noahdipped.png" alt="Noah's profile picture" width="48" style="border-radius:50%;"/>
+  <h1 style="margin:0; font-size:40px; display:flex; align-items:center; width:100%;">
+    <span>Noah</span>
+    <img src="https://github.com/noahdipped.png" alt="Noah's profile picture" width="24" style="border-radius:50%; margin-left:auto;"/>
+  </h1>
 </div>
 
 <div align="center">
@@ -9,7 +11,6 @@
 
 
 ## handles
-
 
 
 ![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
