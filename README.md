@@ -1,8 +1,8 @@
-# 🌟 Noah
+#  Noah
 
 <div align="center">
 
-### Connect With Me
+### handles
 
 <table>
 <tr>
