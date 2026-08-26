@@ -13,14 +13,14 @@
 ## handles
 
 
-![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
-![roblox](https://img.shields.io/badge/syxtherfr%20-!roblox-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) 
+![discord](https://img.shields.io/badge/discord-kyybi-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+![roblox](https://img.shields.io/badge/roblox-syxtherfr-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) 
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Stay%20Awesome-🌟-7C4DFF?style=for-the-badge&logo=appveyor" />
-  <img alt="idk" src="https://img.shields.io/badge/Stay%20Awesome-🌟-00C9A7?style=for-the-badge&logo=appveyor" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/thats%20it-🌟-7C4DFF?style=for-the-badge&logo=appveyor" />
+  <img alt="thats it" src="https://img.shields.io/badge/thats%20it-🌟-00C9A7?style=for-the-badge&logo=appveyor" />
 </picture>
 
 <sub>Last updated: 2026</sub>
