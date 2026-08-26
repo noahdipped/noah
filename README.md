@@ -10,9 +10,8 @@
 
 ---
 
-|----------|--------|
-| | ![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
-| | ![roblox](https://img.shields.io/badge/syxtherfr%20-!roblox-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) |
+![discord](https://img.shields.io/badge/kyybi%20-!discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
+![roblox](https://img.shields.io/badge/syxtherfr%20-!roblox-FF2D55?style=for-the-badge&logo=roblox&logoColor=white) |
 
 ---
 
